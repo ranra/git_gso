@@ -25,3 +25,17 @@ a.k.a file eh sem við öll kunnumst við.. ég er að skrá í notepad sem er skrá.
 
 skráarsnið:
 þessi skrá hefur skráarsniðið .txt
+
+
+lokaord:
+what can go wrong?
+famous last words..
+
+
+gleymdi víst að git add-a skrá :(
+svo þetta verður seinasta skráinn :).
+
+
+
+
+arnar orri arnarsson.
