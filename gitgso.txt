@@ -11,4 +11,6 @@ eru útum allt
 gagnasafn:
 Ég hef aðgang að upplýsingum(a.k.a gagnasafni)  sem ég giska á að séu í risa geymslu i silicon valley a.k.a google,svo auðveldan aðgang að upplýsingum sem ég hef alla tíð geta nýtt mér.
 
+Gagnasafnskerfi:
+Kannski er bare einhvað risa gagnasafnskerfi sem þessar stofnanir fá aðgang að ,mögulega mismikinn.
 
